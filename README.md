@@ -11,6 +11,19 @@
 - A4 打印版 PDF
 - 使用说明，以及 1–2 篇学科速查附录（速查表 / 答题模板）
 
+- ## 效果预览
+
+以下截图来自一份 21 页的《Quartus II 13.0 设计流程》课件，由本技能自动生成。
+
+**第 1 页：课件中文版 + 三问式注释**
+
+![第 1 页：课件中文版与三问式注释](docs/screenshots/ebook-page1.png)
+
+**第 3 页：课件原图、译文与注释对照**
+
+![第 3 页：课件原图与译文对照](docs/screenshots/ebook-page3.png)
+
+
 ## 安装
 
 把这个仓库克隆到 Claude Code 的技能目录。**目录名必须是 `courseware-cn-annotator`**。
