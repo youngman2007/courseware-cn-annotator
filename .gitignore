@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 备份与临时文件
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 运行产物（生成在学习包工作目录里，不应进仓库）
+_out/
+_extract/
+网页版电子书/
+
+# 运行时配置 / 密钥
+.env
+*.key
