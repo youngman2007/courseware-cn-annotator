@@ -19,3 +19,5 @@ _extract/
 # 运行时配置 / 密钥
 .env
 *.key
+evals/_tmp/
+evals/fixture.pdf
