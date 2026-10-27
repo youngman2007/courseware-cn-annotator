@@ -18,14 +18,14 @@
 macOS / Linux：
 
 ```bash
-git clone https://github.com/<your-name>/courseware-cn-annotator.git \
+git clone https://github.com/youngman2007/courseware-cn-annotator.git \
   ~/.claude/skills/courseware-cn-annotator
 ```
 
 Windows（PowerShell）：
 
 ```powershell
-git clone https://github.com/<your-name>/courseware-cn-annotator.git "$env:USERPROFILE\.claude\skills\courseware-cn-annotator"
+git clone https://github.com/youngman2007/courseware-cn-annotator.git "$env:USERPROFILE\.claude\skills\courseware-cn-annotator"
 ```
 
 克隆后重启 Claude Code（或在会话里重新加载技能），然后对 Claude 说：
